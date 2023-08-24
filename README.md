@@ -26,7 +26,7 @@ Fairfax, VA 22030
 📫 tvn@gmu.edu
 ```
 
-## [Brief Bio](https://dynaroars.github.io/nguyenthanhvuh/files/bio-nguyen.txt)  (for talks, etc)
+## [Brief Bio](https://dynaroars.github.io/nguyenthanhvuh/files/bio-nguyen.txt)  (e.g., for talks)
 
 <details>
 <summary><kbd>More details ⚡</kbd></summary>
