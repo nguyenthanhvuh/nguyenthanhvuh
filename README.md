@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nguyenthanhvuh/nguyenthanhvuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# ThanhVu (Vu) Nguyen
+# ThanhVu (Vu) Nguyen 👋
 
 ```
 Department of Computer Science
@@ -30,7 +29,7 @@ Fairfax, VA 22030
 ## [Brief Bio](https://dynaroars.github.io/nguyenthanhvuh/files/bio-nguyen.txt)  (for talks, etc)
 
 <details>
-<summary><kbd>More details</kbd></summary>
+<summary><kbd>More details ⚡</kbd></summary>
 
 **Life**: I immigrated from Vietnam to the US when I was 11 (old enough to remember and preserve my Vietnamese culture and language, but young enough to embrace and absorb the American way of life). I received my undergraduate degree in Computer Science from Penn State-University Park and my M.S. from Penn State-Harrisburg, where I was advised by Thang Bui. I earned my Ph.D. in Computer Science from the University of New Mexico-Albuquerque, where I was mentored by Stephanie Forrest and Deepak Kapur. After finishing my Ph.D., I did a two-year postdoc at the University of Maryland-College Park, working with Jeff Foster at PLUM@UMD. Before joining George Mason, I was at the University of Nebraska-Lincoln. During my graduate studies, I had the opportunity to intern at the Naval Research Laboratory and Lockheed Martin.
 
