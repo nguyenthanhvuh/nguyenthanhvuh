@@ -38,5 +38,5 @@ Fairfax, VA 22030
 
 ## Research
 - [DynaRoars](https://go.gmu.edu/dynaroars): research lab, publications, etc
-- [My CV](https://raw.githubusercontent.com/dynaroars/latex-cv/main/cv-nguyen.pdf) and [Google Scholars](https://scholar.google.com/citations?user=TLcVQ-MAAAAJ&hl=en) profile
+- [My CV](https://dynaroars.github.io/nguyenthanhvuh/latex-cv/cv-nguyen.pdf) and [Google Scholars](https://scholar.google.com/citations?user=TLcVQ-MAAAAJ&hl=en) profile
 - [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=lEa2_icAAAAJ&view_op=list_works&sortby=pubdate) of the Software Engineering Group@GMU
