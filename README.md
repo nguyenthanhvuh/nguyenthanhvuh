@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ⚡**Personal**: I came to the US from Vietnam when I was 11. Initially I was in Hawaii and relocated to Pennsylvania, where I grew up. I met my wife on a Southwest flight. We have three children, all were born while I was an assistant prof. in Nebraska. We are now living in the Northern Virginia/DC area.
 
-- [DynaRoars](https://roars.dev): research lab, publications, etc
+- [Roars](https://roars.dev) Lab: my research group, publications, etc
 - [My CV](https://roars.dev/people/nguyenthanhvuh/latex-cv/cv-nguyen.pdf) and [Google Scholars](https://scholar.google.com/citations?user=TLcVQ-MAAAAJ&hl=en) profile
 
 
