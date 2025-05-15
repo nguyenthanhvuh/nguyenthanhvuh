@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 
-🌱 I am an Associate Professor in [Computer Science](https://www.cs.gmu.edu) at George Mason University. My [research](https://roars.dev) is in Formal Methods and Software Engineering. My current work focuses on the the formal analysis of software and AI systems.
+🌱 I am an Associate Professor in [Computer Science](https://www.cs.gmu.edu) at George Mason University (GMU). I am also the Director of the Master's Program in Software Engineering at GMU.
+ My [research](https://roars.dev) is in Formal Methods and Software Engineering. My current work focuses on the the formal analysis of software and AI systems.
 
  I received my Ph.D. in Computer Science from the [University of New Mexico-Albuquerque](https://cs.unm.edu) and completed a postdoc at the [University of Maryland-College Park](https://cs.umd.edu). Before joining Mason, I was at the [University of Nebraska-Lincoln](https://www.unl.edu). Outside of academia, I have worked at the [Naval Research Laboratory](https://www.nrl.navy.mil) and [Lockheed Martin](https://lockheedmartin.com/en-us/capabilities/research-labs/advanced-technology-labs.html).
 
