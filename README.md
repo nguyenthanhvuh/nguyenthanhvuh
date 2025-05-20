@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # ThanhVu (Vu) Nguyen 👋
 
 
-
 🌱 I am an Associate Professor in [Computer Science](https://www.cs.gmu.edu) at George Mason University (GMU). I am also the Director of the Master's Program in Software Engineering at GMU.
  My [research](https://roars.dev) is in Formal Methods and Software Engineering. My current work focuses on the the formal analysis of software and AI systems.
 
