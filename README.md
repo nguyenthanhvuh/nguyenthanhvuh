@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 # ThanhVu (Vu) Nguyen 👋
-- [Personal homepage](httsp://tvn.roars.dev)
+
+- [Personal Homepage](https://tvn.roars.dev)
 - [Roars](https://roars.dev) Lab: my research group, publications, etc
 
 
